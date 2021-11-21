@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+    padding: 30px;
+}
+.moda{
+    width: 50%;
+    height: 200px; 
+    margin: 0 auto;
+ }
+
+.moda tr {
+    background-color: #424250;
+    color: white;
+    text-align: center;
+    
+    
+        
+}
+
+.produto-moda th {
+    background-color: #bb86fc;
+    
+     
+}
+
+.casa{
+    width: 50%;
+    height: 200px;
+    left: 100px;
+    margin: 0 auto;
+}
+
+.casa tr {
+    background-color: #424250;
+    color: white;
+    text-align: center;
+}
+
+.head-casa th{
+    background-color: #00c4b4;
+}
+   
